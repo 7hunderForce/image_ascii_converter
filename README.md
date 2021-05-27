@@ -1,1 +1,1 @@
-# image_ascii_converter
+# Image ASCII Converter
